@@ -1,4 +1,4 @@
-Ecommerce-Backend-Project
+# Ecommerce-Backend-Project
 
 In this project, I have made a backend of an e-commerce website using Express framework of NodeJS. We are already given the mysql-database in which there are different tables and their data. We've to write different queries for different endpoints to make them working.
 
