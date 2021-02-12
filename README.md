@@ -10,6 +10,10 @@ Installation process and Execution First, If you'are using Linux-based-OS, open 
 $ sudo apt install nodejs
 ```
 
+```bash
+$ sudo npm install express --save
+```
+
 Next, you've to install mysql-database onto your system. For this, write these following commands on your terminal.
 
 ```bash
